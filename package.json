@@ -16,6 +16,7 @@
     "node-cron": "^2.0.3",
     "node-fetch": "^2.6.0",
     "telegraf": "^3.36.0",
+    "telegraf-inline-menu": "^4.0.0",
     "webpack": "^4.38.0"
   },
   "devDependencies": {
